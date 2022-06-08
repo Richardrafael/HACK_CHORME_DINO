@@ -1,10 +1,10 @@
 ### COMO HACKEAR O JOGO OFFILINE DO CHROME
 
-<p = align="center">
+
 
 ## HACK 1
 
- </p>
+
 
 1). Desconecte-se do seu acesso à internet ou acesse o link chrome://dino/
 2). Aperte com o botão direito do mouse e vá em inspensionar.
