@@ -1,7 +1,5 @@
 ### COMO HACKEAR O JOGO OFFILINE DO CHROME
 
-
-
 ## HACK 1
 
 ### Passos
@@ -12,4 +10,6 @@
 3 - Abra o Console.<br>
 4 - Copie e cole este código Runner.prototype.gameOver = function() {console.log("CR7VIGGY")}<br>
 5 - Pressione enter e feche a página Inspecionar.<br>
+
+
 
