@@ -10,8 +10,7 @@
 3 - Abra o Console.<br>
 4 - Copie e cole este código 
  #### Runner.prototype.gameOver = function() {console.log("CR7VIGGY")}<br>
-5 - Pressione enter e feche a página Inspecionar.<br>
-![apre](https://github.com/Richardrafael/hack_chrome_dino/blob/main/img/hack_1.png)<br>
+![apre](https://github.com/Richardrafael/hack_chrome_dino/blob/main/img/hack_1.PNG)<br>
 
 
 ## HACK 2 - Pula certo sem morrer 
