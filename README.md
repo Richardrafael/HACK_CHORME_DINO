@@ -4,6 +4,7 @@
 
 ## HACK 1
 
+### Passos
 
 
 1). Desconecte-se do seu acesso à internet ou acesse o link chrome://dino/ <br>
