@@ -19,7 +19,7 @@
 2 - Aperte com o botão direito do mouse e vá em inspensionar. <br>
 3 - Abra o Console.<br>
 4 - Copie e cole este código
-#### const a=document.querySelector('.runner-canvas'),b=a.getContext('2d'),c=new KeyboardEvent('keydown',{'keyCode':32,'which':32});function d(){let e=b.getImageData(70,120,50,4).data;for(let f=0;f<e.length;++f)if(0!==e[f]){document.dispatchEvent(c);break}window.requestAnimationFrame(d)}d();
-5 - Pressione enter e feche a página Inspecionar.<br>
+#### const a=document.querySelector('.runner-canvas'),b=a.getContext('2d'),c=new KeyboardEvent('keydown',{'keyCode':32,'which':32});function d(){let e=b.getImageData(70,120,50,4).data;for(let f=0;f<e.length;++f)if(0!==e[f]){document.dispatchEvent(c);break}window.requestAnimationFrame(d)}d();<br>
+![apre](https://github.com/Richardrafael/hack_chrome_dino/blob/main/img/hack_2.png)<br>
 
 
