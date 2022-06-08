@@ -1,6 +1,6 @@
 ### COMO HACKEAR O JOGO OFFILINE DO CHROME
 
-## HACK 1 - Passar todos obtaculos
+## HACK 1 - Passa todos obtaculos
 
 ### Passos
 
@@ -13,7 +13,7 @@
 ![apre](https://github.com/Richardrafael/hack_chrome_dino/blob/main/img/hack_1.PNG)<br>
 
 
-## HACK 2 - Pula certo sem morrer 
+## HACK 2 - Pulos 100% automaticos 
 1 - Desconecte-se do seu acesso à internet ou acesse o link chrome://dino/ <br>
 2 - Aperte com o botão direito do mouse e vá em inspensionar. <br>
 3 - Abra o Console.<br>
