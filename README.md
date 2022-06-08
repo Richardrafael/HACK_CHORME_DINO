@@ -1,7 +1,9 @@
 ### COMO HACKEAR O JOGO OFFILINE DO CHROME
 
 <p = align="center">
+
 ## HACK 1
+
  </p>
 
 1). Desconecte-se do seu acesso à internet ou acesse o link chrome://dino/
